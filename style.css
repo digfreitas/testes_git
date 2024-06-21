@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1 {
+    color: blue;
+    border: 1px solid black;
+    
+}
